@@ -63,6 +63,12 @@ jQuery(document).ready(function() {
                     items: 1
                 },
                 768 : {
+                    items: 1
+                },
+                1024 : {
+                    items: 3
+                },
+                1560 : {
                     items: 4
                 }
             }
